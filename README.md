@@ -33,3 +33,9 @@ Activity 5:
 <img width="817" height="475" alt="image" src="https://github.com/user-attachments/assets/16d231c1-bd5a-4747-a328-eba212a5b8f5" />
 
 <img width="892" height="279" alt="image" src="https://github.com/user-attachments/assets/bedd95c0-3d63-474e-88fa-fc1b44f7b500" />
+
+<img width="807" height="494" alt="image" src="https://github.com/user-attachments/assets/0fcc5482-34be-4184-95ed-dcbb25a4b0df" />
+
+<img width="867" height="336" alt="image" src="https://github.com/user-attachments/assets/d49a9a67-24ac-4c2e-b81a-3a6a3b242414" />
+
+
